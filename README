@@ -1,0 +1,40 @@
+Project: Jerl 6 -- Perl 6 for the JVM
+Current Maintainer: Katrina "the lamia" Payne AKA Full Metal Harlot
+
+Target Start Date: Currently Octobre 15th 2009.
+
+Synopsis:
+
+Katrina was joking around on some of the the various Perl 6 channels that she 
+should produce a version of Perl 6 for the JVM. Referring to the usual 
+distain for Java many Perl users feel.
+
+Well, just after she had suggested it, people started saying it was a good 
+idea as Parrot still is not entirely complete (when she was joking around 
+about this Circa August 2009), and putting Perl 6 onto the JVM would 
+immediately allow for Perl 6 to appear into various Enterprise solutions. The 
+kind that many people would normally rely on Clojure--possibly JRuby. It is 
+a horrible shame that at the time of typing this Jython is not known to be up 
+to date with Python 2.6.
+
+So realising that Perl 6 on the JVM would be a good idea, Katrina then 
+decided to slate start of development for Jerl 6 (pronounced "Girl Six" 
+(possibly as "Girl Sex", it you can conceivably get away with that)--it is a 
+form of bad pun) for Octobre. It has been a little delayed. She will begin 
+work on it... hopefully well before Rakudo Star and the .Net/Mono versions of 
+Perl 6 are well into production usage >.>
+
+Todo:
+
+20091008
+ * Make a proper Todo file
+ * Make a proper Changelog file
+ * Relocate the documents on working with the JVM (Katrina has lost those D=)
+ * Resist the urge to add Perl 6 functionality to GCC >.>
+
+Changelog
+
+20091008
+ * Created the Github Project
+ * Created this README file.
+ * Sweet bumpkis else.
